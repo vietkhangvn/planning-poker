@@ -3,16 +3,9 @@
 
 Free / Open source Scrum/Agile Planning Poker Web App to estimate user stories for the Agile/Scrum teams. Create session and invite team members to estimate user stories efficiently. Intuitive UI/UX for voting the story points, showing team members voting status with emojis(👍 - Voting Done, 🤔 - Yet to Vote). Session Moderator has full control on revealing story points and restarting the session.
 
-<div align="center">
-  
-[![Build and Tests](https://github.com/hellomuthu23/planning-poker/actions/workflows/build-and-tests.yml/badge.svg)](https://github.com/hellomuthu23/planning-poker/actions/workflows/build-and-tests.yml)
-[![Deploy to Firebase](https://github.com/hellomuthu23/planning-poker/actions/workflows/deploy-to-firebase-on-master.yml/badge.svg)](https://github.com/hellomuthu23/planning-poker/actions/workflows/deploy-to-firebase-on-master.yml)
-
-</div>
-
 ## Live Site
 
-- <https://planning-poker-agile.web.app/>
+- <https://easyplanningpoker.com/>
 
 ## Home Page
 
@@ -45,7 +38,7 @@ Free / Open source Scrum/Agile Planning Poker Web App to estimate user stories f
 1. Clone the repo
 
     ```bash
-    git clone https://github.com/hellomuthu23/planning-poker.git
+    git clone https://github.com/vietkhangvn/planning-poker.git
     ```
 
 2. Run `yarn` command to install the required npm package.
@@ -77,4 +70,3 @@ Free / Open source Scrum/Agile Planning Poker Web App to estimate user stories f
 2. Add missing unit tests for services
 3. Upgrade Material UI to latest version
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hellomuthu23)
